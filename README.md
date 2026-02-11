@@ -91,4 +91,7 @@ Business Intelligence Reporting
 Revenue_Performance_Analysis.xlsx
 (Raw Data + Cleaned Data + Pivot Analysis + Dashboard + SQL Sheet)
 
-dashboard.png (Dashboard preview)
+## 📊 Dashboard Preview
+
+![Revenue Dashboard](dashboard.png)
+
