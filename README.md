@@ -58,7 +58,9 @@ North Cascade was the strongest revenue growth driver.
 
 Convenience stores recorded the highest overall profitability.
 
-Average profit margin remained stable at ~26.58%.
+Supermarkets demonstrated the strongest profit margin.
+
+Average profit margin remained stable at ~26-28%.
 
 2014 marked the peak revenue performance year.
 
