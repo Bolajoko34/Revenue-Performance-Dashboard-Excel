@@ -34,21 +34,19 @@ Removed non-analytical code/ID columns.
 
 Validated consistency across Revenue, Profit, and Margin fields.
 
-✔ Demonstrates statistical reasoning and data validation practices.
+🛢 SQL Database Schema Design
 
-🛢 SQL Integration
+To complement the Excel analysis, a relational database schema was designed in MySQL to model the revenue dataset.
 
-A simple relational database structure was designed to:
+The SQL script includes:
 
-Aggregate revenue by product and year
+Creation of a dedicated database (case_study)
 
-Rank top producers
+Structured Revenue table design
 
-Calculate profit margins
+Appropriate data type selection (INT, VARCHAR, DECIMAL)
 
-Group performance by store type
-
-✔ Demonstrates ability to structure analytical datasets for database environments.
+Logical field organization for analytical scalability (Year, Store Type, Product Group, Producer, Volume, Pricing, Revenue)
 
 📊 Key Insights
 
